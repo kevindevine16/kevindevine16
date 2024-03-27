@@ -31,6 +31,6 @@ Quantitative Analyst for Flutter UKI, based in Flutter's Global Head Office, Dub
 ![REDSHIFT](https://img.shields.io/badge/Redshift-2e73b7.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=black)
 ![VSCODE](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=flat&logo=rockylinux&logoColor=white)

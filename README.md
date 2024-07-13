@@ -1,7 +1,7 @@
 
 ## Kevin Devine
 
-Quantitative Analyst for Flutter UKI, based in Flutter's Global Head Office, Dublin, Ireland.
+Quantitative Analyst for Flutter UKI, based in the Dublin office of Flutter Entertainment plc.
 
 
 [![Flutter](https://img.shields.io/badge/Flutter-031337.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAxCAQAAAACLiO1AAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAAd0SU1FB+gDFAokFqazWHYAAAC+SURBVEjH7ZcxCkIxDEBfQhfxDILHU/Bw3kDwIi4fdBNFcLAaF6ffuqQZlN83Bv4j4adJK5ZRjBiER0IRJEgIEpfdB43VdWEEYrF/2RK70Cyz2Cy65FhfZxI0t814NifWznktXNhyK+Lm52CLsj7l5a7Wauvj9+dhF0YI/deQ6peJlVt35VwJR5/lzhT42jbedkjMi5hx99+8xfajZJQjG07uhq3sisGW/vNT2ynPlqfGP8zDLmwlkUdSJbcI3x9kdvT1OHQaAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI0LTAzLTIwVDEwOjM2OjIyKzAwOjAw+x4C+AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNC0wMy0yMFQxMDozNjoyMiswMDowMIpDukQAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjQtMDMtMjBUMTA6MzY6MjIrMDA6MDDdVpubAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAABJRU5ErkJggg==
